@@ -1,0 +1,4 @@
+[
+  {"id":1, "user_id":2, "car_id":7, "start_date":"2026-01-01", "end_date":"2026-01-05", "total_price":260.0},
+  {"id":3, "user_id":2, "car_id":5, "start_date":"2026-05-20", "end_date":"2026-05-29", "total_price":540.0}
+]
